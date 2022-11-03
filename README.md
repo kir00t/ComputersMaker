@@ -8,7 +8,7 @@ Latex code for drawing complex computer hardware and components on PCB or PSC, f
 
 [ ] circuit scan.
 
-[ ] place a circuit skin.
+[ ] place a board skin.
 
 # Getting Started
 
